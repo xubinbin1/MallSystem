@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>请输入正确的用户名和密码
